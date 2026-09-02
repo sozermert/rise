@@ -15,7 +15,7 @@ a{color:inherit}
 .hero{text-align:center;padding-top:86px}
 .hero h1{color:#000;font-family:Inter,Arial,sans-serif;font-size:36px;font-weight:700;line-height:normal;letter-spacing:0;text-align:center}
 .eyebrow{margin-bottom:36px;color:rgba(0,0,0,.55);font-family:Inter,Arial,sans-serif;font-size:18px;font-weight:700;line-height:1.45;letter-spacing:-.005em;text-align:center}.project-meta{font-size:.68rem;line-height:1.22;margin:1rem auto 4.2rem}.hero-image{width:730px;aspect-ratio:1.49;object-fit:cover;margin:auto}
-.intro{padding-top:145px}.intro ul{padding-left:1.25rem;margin-bottom:.5rem}.intro strong{display:block;margin-top:.65rem}
+.intro{padding-top:80px}.intro p,.intro li{color:#000;font-family:Inter,Arial,sans-serif;font-size:18px;font-weight:400;line-height:normal;letter-spacing:0}.intro ul{padding-left:1.25rem;margin-bottom:.5rem}.intro strong{display:block;margin-top:.65rem;color:#000;font-family:Inter,Arial,sans-serif;font-size:24px;font-weight:700;line-height:normal;letter-spacing:0}
 .feature-grid,.pillars,.partner-grid,.activity-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:32px}
 .feature-grid{padding-top:60px}.feature-card .pattern,.pillars .pattern{aspect-ratio:365/500;border-radius:12px;margin-bottom:24px;background-size:cover;background-position:center}
 .feature-card h3{min-height:2.44em}
